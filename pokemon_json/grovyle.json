@@ -1,0 +1,840 @@
+{
+  "name": "grovyle",
+  "url": "https://unboundwiki.com/pokemon/grovyle/",
+  "abilities": [
+    {
+      "name": "Overgrow",
+      "description": "Ups Grass moves in a pinch."
+    },
+    {
+      "name": "Unburden",
+      "description": "Doubles Speed if item is lost."
+    }
+  ],
+  "wild_held_items": "None",
+  "evolution_line": [
+    {
+      "pokemon": "Base form",
+      "condition": "Unknown"
+    },
+    {
+      "pokemon": "Level 16",
+      "condition": "Unknown"
+    },
+    {
+      "pokemon": "Level 36",
+      "condition": "Unknown"
+    }
+  ],
+  "moveset": [
+    {
+      "level": "1",
+      "move": "Energy Ball",
+      "type": "Grass",
+      "category": "Special",
+      "power": "90",
+      "accuracy": "100%",
+      "pp": "10"
+    },
+    {
+      "level": "1",
+      "move": "False Swipe",
+      "type": "Normal",
+      "category": "Physical",
+      "power": "40",
+      "accuracy": "100%",
+      "pp": "40"
+    },
+    {
+      "level": "1",
+      "move": "Leafage",
+      "type": "Grass",
+      "category": "Physical",
+      "power": "40",
+      "accuracy": "100%",
+      "pp": "40"
+    },
+    {
+      "level": "1",
+      "move": "Leer",
+      "type": "Normal",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "100%",
+      "pp": "30"
+    },
+    {
+      "level": "1",
+      "move": "Pound",
+      "type": "Normal",
+      "category": "Physical",
+      "power": "40",
+      "accuracy": "100%",
+      "pp": "35"
+    },
+    {
+      "level": "1",
+      "move": "Quick Attack",
+      "type": "Normal",
+      "category": "Physical",
+      "power": "40",
+      "accuracy": "100%",
+      "pp": "30"
+    },
+    {
+      "level": "9",
+      "move": "Mega Drain",
+      "type": "Grass",
+      "category": "Special",
+      "power": "40",
+      "accuracy": "100%",
+      "pp": "15"
+    },
+    {
+      "level": "12",
+      "move": "Detect",
+      "type": "Fighting",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "–",
+      "pp": "5"
+    },
+    {
+      "level": "15",
+      "move": "Fury Cutter",
+      "type": "Bug",
+      "category": "Physical",
+      "power": "40",
+      "accuracy": "95%",
+      "pp": "20"
+    },
+    {
+      "level": "15",
+      "move": "Quick Guard",
+      "type": "Fighting",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "–",
+      "pp": "15"
+    },
+    {
+      "level": "20",
+      "move": "Assurance",
+      "type": "Dark",
+      "category": "Physical",
+      "power": "60",
+      "accuracy": "100%",
+      "pp": "10"
+    },
+    {
+      "level": "25",
+      "move": "Giga Drain",
+      "type": "Grass",
+      "category": "Special",
+      "power": "75",
+      "accuracy": "100%",
+      "pp": "10"
+    },
+    {
+      "level": "30",
+      "move": "Slam",
+      "type": "Normal",
+      "category": "Physical",
+      "power": "80",
+      "accuracy": "75%",
+      "pp": "20"
+    },
+    {
+      "level": "35",
+      "move": "Double Team",
+      "type": "Normal",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "–",
+      "pp": "15"
+    },
+    {
+      "level": "39",
+      "move": "Leaf Blade",
+      "type": "Grass",
+      "category": "Physical",
+      "power": "90",
+      "accuracy": "100%",
+      "pp": "15"
+    },
+    {
+      "level": "44",
+      "move": "X-Scissor",
+      "type": "Bug",
+      "category": "Physical",
+      "power": "80",
+      "accuracy": "100%",
+      "pp": "15"
+    },
+    {
+      "level": "49",
+      "move": "Screech",
+      "type": "Normal",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "85%",
+      "pp": "40"
+    },
+    {
+      "level": "53",
+      "move": "Endeavor",
+      "type": "Normal",
+      "category": "Physical",
+      "power": "1",
+      "accuracy": "100%",
+      "pp": "5"
+    },
+    {
+      "level": "58",
+      "move": "Leaf Storm",
+      "type": "Grass",
+      "category": "Special",
+      "power": "140",
+      "accuracy": "90%",
+      "pp": "5"
+    }
+  ],
+  "tm_moves": [
+    {
+      "move": "Acrobatics",
+      "type": "Flying",
+      "category": "Physical",
+      "power": "55",
+      "accuracy": "100%",
+      "pp": "15"
+    },
+    {
+      "move": "Aerial Ace",
+      "type": "Flying",
+      "category": "Physical",
+      "power": "60",
+      "accuracy": "–",
+      "pp": "20"
+    },
+    {
+      "move": "Attract",
+      "type": "Normal",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "100%",
+      "pp": "15"
+    },
+    {
+      "move": "Brick Break",
+      "type": "Fighting",
+      "category": "Physical",
+      "power": "75",
+      "accuracy": "100%",
+      "pp": "15"
+    },
+    {
+      "move": "Bullet Seed",
+      "type": "Grass",
+      "category": "Physical",
+      "power": "25",
+      "accuracy": "100%",
+      "pp": "30"
+    },
+    {
+      "move": "Cut",
+      "type": "Normal",
+      "category": "Physical",
+      "power": "50",
+      "accuracy": "95%",
+      "pp": "30"
+    },
+    {
+      "move": "Dig",
+      "type": "Ground",
+      "category": "Physical",
+      "power": "80",
+      "accuracy": "100%",
+      "pp": "10"
+    },
+    {
+      "move": "Double Team",
+      "type": "Normal",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "–",
+      "pp": "15"
+    },
+    {
+      "move": "Drain Punch",
+      "type": "Fighting",
+      "category": "Physical",
+      "power": "75",
+      "accuracy": "100%",
+      "pp": "10"
+    },
+    {
+      "move": "Endure",
+      "type": "Normal",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "–",
+      "pp": "10"
+    },
+    {
+      "move": "Energy Ball",
+      "type": "Grass",
+      "category": "Special",
+      "power": "90",
+      "accuracy": "100%",
+      "pp": "10"
+    },
+    {
+      "move": "Facade",
+      "type": "Normal",
+      "category": "Physical",
+      "power": "70",
+      "accuracy": "100%",
+      "pp": "20"
+    },
+    {
+      "move": "False Swipe",
+      "type": "Normal",
+      "category": "Physical",
+      "power": "40",
+      "accuracy": "100%",
+      "pp": "40"
+    },
+    {
+      "move": "Flash",
+      "type": "Normal",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "100%",
+      "pp": "20"
+    },
+    {
+      "move": "Fling",
+      "type": "Dark",
+      "category": "Physical",
+      "power": "1",
+      "accuracy": "100%",
+      "pp": "10"
+    },
+    {
+      "move": "Focus Punch",
+      "type": "Fighting",
+      "category": "Physical",
+      "power": "150",
+      "accuracy": "100%",
+      "pp": "20"
+    },
+    {
+      "move": "Frustration",
+      "type": "Normal",
+      "category": "Physical",
+      "power": "1",
+      "accuracy": "100%",
+      "pp": "20"
+    },
+    {
+      "move": "Giga Drain",
+      "type": "Grass",
+      "category": "Special",
+      "power": "75",
+      "accuracy": "100%",
+      "pp": "10"
+    },
+    {
+      "move": "Grass Knot",
+      "type": "Grass",
+      "category": "Special",
+      "power": "1",
+      "accuracy": "100%",
+      "pp": "20"
+    },
+    {
+      "move": "Hidden Power",
+      "type": "Normal",
+      "category": "Special",
+      "power": "60",
+      "accuracy": "100%",
+      "pp": "15"
+    },
+    {
+      "move": "Iron Tail",
+      "type": "Steel",
+      "category": "Physical",
+      "power": "100",
+      "accuracy": "75%",
+      "pp": "15"
+    },
+    {
+      "move": "Low Sweep",
+      "type": "Fighting",
+      "category": "Physical",
+      "power": "65",
+      "accuracy": "100%",
+      "pp": "20"
+    },
+    {
+      "move": "Natural Gift",
+      "type": "Normal",
+      "category": "Physical",
+      "power": "1",
+      "accuracy": "100%",
+      "pp": "15"
+    },
+    {
+      "move": "Nature Power",
+      "type": "Normal",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "–",
+      "pp": "20"
+    },
+    {
+      "move": "Power-Up Punch",
+      "type": "Fighting",
+      "category": "Physical",
+      "power": "40",
+      "accuracy": "100%",
+      "pp": "20"
+    },
+    {
+      "move": "Protect",
+      "type": "Normal",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "–",
+      "pp": "10"
+    },
+    {
+      "move": "Rest",
+      "type": "Psychic",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "–",
+      "pp": "10"
+    },
+    {
+      "move": "Return",
+      "type": "Normal",
+      "category": "Physical",
+      "power": "1",
+      "accuracy": "100%",
+      "pp": "20"
+    },
+    {
+      "move": "Rock Slide",
+      "type": "Rock",
+      "category": "Physical",
+      "power": "75",
+      "accuracy": "90%",
+      "pp": "10"
+    },
+    {
+      "move": "Rock Smash",
+      "type": "Fighting",
+      "category": "Physical",
+      "power": "40",
+      "accuracy": "100%",
+      "pp": "15"
+    },
+    {
+      "move": "Rock Tomb",
+      "type": "Rock",
+      "category": "Physical",
+      "power": "60",
+      "accuracy": "95%",
+      "pp": "15"
+    },
+    {
+      "move": "Round",
+      "type": "Normal",
+      "category": "Special",
+      "power": "60",
+      "accuracy": "100%",
+      "pp": "15"
+    },
+    {
+      "move": "Safeguard",
+      "type": "Normal",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "–",
+      "pp": "25"
+    },
+    {
+      "move": "Secret Power",
+      "type": "Normal",
+      "category": "Physical",
+      "power": "70",
+      "accuracy": "100%",
+      "pp": "20"
+    },
+    {
+      "move": "Sleep Talk",
+      "type": "Normal",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "–",
+      "pp": "10"
+    },
+    {
+      "move": "Solar Beam",
+      "type": "Grass",
+      "category": "Special",
+      "power": "120",
+      "accuracy": "100%",
+      "pp": "10"
+    },
+    {
+      "move": "Strength",
+      "type": "Normal",
+      "category": "Physical",
+      "power": "80",
+      "accuracy": "100%",
+      "pp": "15"
+    },
+    {
+      "move": "Substitute",
+      "type": "Normal",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "–",
+      "pp": "10"
+    },
+    {
+      "move": "Sunny Day",
+      "type": "Fire",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "–",
+      "pp": "5"
+    },
+    {
+      "move": "Swagger",
+      "type": "Normal",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "85%",
+      "pp": "15"
+    },
+    {
+      "move": "Swords Dance",
+      "type": "Normal",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "–",
+      "pp": "20"
+    },
+    {
+      "move": "Toxic",
+      "type": "Poison",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "90%",
+      "pp": "10"
+    },
+    {
+      "move": "Work Up",
+      "type": "Normal",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "–",
+      "pp": "30"
+    },
+    {
+      "move": "X-Scissor",
+      "type": "Bug",
+      "category": "Physical",
+      "power": "80",
+      "accuracy": "100%",
+      "pp": "15"
+    }
+  ],
+  "tutor_moves": [
+    {
+      "move": "Agility",
+      "type": "Psychic",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "–",
+      "pp": "30"
+    },
+    {
+      "move": "Body Slam",
+      "type": "Normal",
+      "category": "Physical",
+      "power": "85",
+      "accuracy": "100%",
+      "pp": "15"
+    },
+    {
+      "move": "Confide",
+      "type": "Normal",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "–",
+      "pp": "20"
+    },
+    {
+      "move": "Crunch",
+      "type": "Dark",
+      "category": "Physical",
+      "power": "80",
+      "accuracy": "100%",
+      "pp": "15"
+    },
+    {
+      "move": "Endeavor",
+      "type": "Normal",
+      "category": "Physical",
+      "power": "1",
+      "accuracy": "100%",
+      "pp": "5"
+    },
+    {
+      "move": "Grass Pledge",
+      "type": "Grass",
+      "category": "Special",
+      "power": "80",
+      "accuracy": "100%",
+      "pp": "10"
+    },
+    {
+      "move": "Grassy Glide",
+      "type": "Grass",
+      "category": "Physical",
+      "power": "70",
+      "accuracy": "100%",
+      "pp": "20"
+    },
+    {
+      "move": "Grassy Terrain",
+      "type": "Grass",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "–",
+      "pp": "10"
+    },
+    {
+      "move": "Leaf Blade",
+      "type": "Grass",
+      "category": "Physical",
+      "power": "90",
+      "accuracy": "100%",
+      "pp": "15"
+    },
+    {
+      "move": "Leaf Storm",
+      "type": "Grass",
+      "category": "Special",
+      "power": "140",
+      "accuracy": "90%",
+      "pp": "5"
+    },
+    {
+      "move": "Low Kick",
+      "type": "Fighting",
+      "category": "Physical",
+      "power": "1",
+      "accuracy": "100%",
+      "pp": "20"
+    },
+    {
+      "move": "Screech",
+      "type": "Normal",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "85%",
+      "pp": "40"
+    },
+    {
+      "move": "Seed Bomb",
+      "type": "Grass",
+      "category": "Physical",
+      "power": "80",
+      "accuracy": "100%",
+      "pp": "15"
+    },
+    {
+      "move": "Snore",
+      "type": "Normal",
+      "category": "Special",
+      "power": "80",
+      "accuracy": "100%",
+      "pp": "15"
+    },
+    {
+      "move": "Solar Blade",
+      "type": "Grass",
+      "category": "Physical",
+      "power": "125",
+      "accuracy": "100%",
+      "pp": "10"
+    },
+    {
+      "move": "Synthesis",
+      "type": "Grass",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "–",
+      "pp": "5"
+    },
+    {
+      "move": "Thunder Punch",
+      "type": "Electric",
+      "category": "Physical",
+      "power": "75",
+      "accuracy": "100%",
+      "pp": "15"
+    },
+    {
+      "move": "Worry Seed",
+      "type": "Grass",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "100%",
+      "pp": "10"
+    }
+  ],
+  "egg_moves": [
+    {
+      "move": "Absorb",
+      "type": "Grass",
+      "category": "Special",
+      "power": "25",
+      "accuracy": "100%",
+      "pp": "25"
+    },
+    {
+      "move": "Agility",
+      "type": "Psychic",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "–",
+      "pp": "30"
+    },
+    {
+      "move": "Bullet Seed",
+      "type": "Grass",
+      "category": "Physical",
+      "power": "25",
+      "accuracy": "100%",
+      "pp": "30"
+    },
+    {
+      "move": "Crunch",
+      "type": "Dark",
+      "category": "Physical",
+      "power": "80",
+      "accuracy": "100%",
+      "pp": "15"
+    },
+    {
+      "move": "Crush Claw",
+      "type": "Normal",
+      "category": "Physical",
+      "power": "75",
+      "accuracy": "95%",
+      "pp": "10"
+    },
+    {
+      "move": "Double Kick",
+      "type": "Fighting",
+      "category": "Physical",
+      "power": "30",
+      "accuracy": "100%",
+      "pp": "30"
+    },
+    {
+      "move": "Dragon Breath",
+      "type": "Dragon",
+      "category": "Special",
+      "power": "60",
+      "accuracy": "100%",
+      "pp": "20"
+    },
+    {
+      "move": "Grass Whistle",
+      "type": "Grass",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "55%",
+      "pp": "15"
+    },
+    {
+      "move": "Grassy Terrain",
+      "type": "Grass",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "–",
+      "pp": "10"
+    },
+    {
+      "move": "Leech Seed",
+      "type": "Grass",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "90%",
+      "pp": "10"
+    },
+    {
+      "move": "Magical Leaf",
+      "type": "Grass",
+      "category": "Special",
+      "power": "60",
+      "accuracy": "–",
+      "pp": "20"
+    },
+    {
+      "move": "Mud Sport",
+      "type": "Ground",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "–",
+      "pp": "15"
+    },
+    {
+      "move": "Natural Gift",
+      "type": "Normal",
+      "category": "Physical",
+      "power": "1",
+      "accuracy": "100%",
+      "pp": "15"
+    },
+    {
+      "move": "Pursuit",
+      "type": "Dark",
+      "category": "Physical",
+      "power": "40",
+      "accuracy": "100%",
+      "pp": "20"
+    },
+    {
+      "move": "Razor Wind",
+      "type": "Normal",
+      "category": "Special",
+      "power": "80",
+      "accuracy": "100%",
+      "pp": "10"
+    },
+    {
+      "move": "Synthesis",
+      "type": "Grass",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "–",
+      "pp": "5"
+    },
+    {
+      "move": "Worry Seed",
+      "type": "Grass",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "100%",
+      "pp": "10"
+    }
+  ]
+}

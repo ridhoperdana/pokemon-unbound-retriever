@@ -1,0 +1,174 @@
+[ ![](https://static.unboundwiki.com/wp-content/assets/images/2024/07/unbound-game-logo-x50.png) ](https://unboundwiki.com/pokemon/gorebyss/<https:/unboundwiki.com/>)
+Menu Close
+![](https://static.unboundwiki.com/wp-content/assets/images/2024/07/pokemon-unbound-frozen-heights-game-icon.jpg)
+**Pokémon Unbound**
+Current Wiki
+[ Wiki Homepage ](https://unboundwiki.com/pokemon/gorebyss/<https:/unboundwiki.com/>)
+  * [![](https://static.unboundwiki.com/wp-content/assets/images/2024/07/unbound-walkthrough-start-preview.jpg)Walkthrough](https://unboundwiki.com/pokemon/gorebyss/<https:/unboundwiki.com/walkthrough/>)
+  * [![](https://static.unboundwiki.com/wp-content/assets/images/2024/07/pokemon-unbound-lab-exterior-150x150.jpg)All Pokémon](https://unboundwiki.com/pokemon/gorebyss/<https:/unboundwiki.com/pokemon/>)
+  * [![](https://static.unboundwiki.com/wp-content/assets/images/2024/07/items-market-150x150.jpg)Items](https://unboundwiki.com/pokemon/gorebyss/<https:/unboundwiki.com/items/>)
+  * [![](https://static.unboundwiki.com/wp-content/assets/images/2024/08/world-map-pokemon-unbound.jpg)Locations](https://unboundwiki.com/pokemon/gorebyss/<https:/unboundwiki.com/locations/>)
+  * [![](https://static.unboundwiki.com/wp-content/assets/images/2024/07/missions-icon-150x150.jpg)Missions](https://unboundwiki.com/pokemon/gorebyss/<https:/unboundwiki.com/missions/>)
+  * [![](https://static.unboundwiki.com/wp-content/assets/images/2024/12/exterior-crater-town-gym-200x200.jpg)Gyms](https://unboundwiki.com/pokemon/gorebyss/<https:/unboundwiki.com/gyms/>)
+  * [![](https://static.unboundwiki.com/wp-content/assets/images/2024/08/evolutionary-items.jpg)Evolution Items](https://unboundwiki.com/pokemon/gorebyss/<https:/unboundwiki.com/items/evolution-items/>)
+  * [![](https://static.unboundwiki.com/wp-content/assets/images/2024/07/mega-stone-150x150.jpg)Mega Stones](https://unboundwiki.com/pokemon/gorebyss/<https:/unboundwiki.com/mega-stones/>)
+  * [![](https://static.unboundwiki.com/wp-content/assets/images/2024/07/tmloc-150x150.png)TMs & HMs](https://unboundwiki.com/pokemon/gorebyss/<https:/unboundwiki.com/tms-hms/>)
+  * [![](https://static.unboundwiki.com/wp-content/assets/images/2024/08/zygarde-house.jpg)Zygarde Cells](https://unboundwiki.com/pokemon/gorebyss/<https:/unboundwiki.com/items/zygarde-cells/>)
+  * [![](https://static.unboundwiki.com/wp-content/assets/images/2024/10/helditems-endgame-shop-200x200.jpg)Held Items](https://unboundwiki.com/pokemon/gorebyss/<https:/unboundwiki.com/items/held-items/>)
+  * [![](https://static.unboundwiki.com/wp-content/assets/images/2024/08/zcrystals-listing-preview.jpg)Z-Crystals](https://unboundwiki.com/pokemon/gorebyss/<https:/unboundwiki.com/z-crystals/>)
+  * [![](https://static.unboundwiki.com/wp-content/assets/images/2024/08/cube.jpg)Key Items](https://unboundwiki.com/pokemon/gorebyss/<https:/unboundwiki.com/items/key-items/>)
+  * [![](https://static.unboundwiki.com/wp-content/assets/images/2024/09/move-tutors-preview.jpg)Move Tutors](https://unboundwiki.com/pokemon/gorebyss/<https:/unboundwiki.com/misc-info/move-tutors/>)
+  * [![](https://static.unboundwiki.com/wp-content/assets/images/2024/10/raid-den-area-pokemon-unbound-lightv.jpg)Raid Dens](https://unboundwiki.com/pokemon/gorebyss/<https:/unboundwiki.com/raid-dens/>)
+  * [![](https://static.unboundwiki.com/wp-content/assets/images/2024/11/useful-npc-preview-200x200.jpg)Useful NPCs](https://unboundwiki.com/pokemon/gorebyss/<https:/unboundwiki.com/misc-info/useful-npcs/>)
+  * [![](https://static.unboundwiki.com/wp-content/assets/images/2024/10/kyurem-unbound-sidequest-200x200.jpg)Extras](https://unboundwiki.com/pokemon/gorebyss/<https:/unboundwiki.com/extras/>)
+  * [![](https://static.unboundwiki.com/wp-content/assets/images/2024/08/dehara-mart.png)Misc. Info](https://unboundwiki.com/pokemon/gorebyss/<https:/unboundwiki.com/misc-info/>)
+
+
+**All Wikis**
+Pokémon Unbound Wiki
+  * [ ![](https://unboundwiki.com/wp-content/themes/stratswiki/assets/img/wiki/elden-ring.png) Elden Ring ](https://unboundwiki.com/pokemon/gorebyss/<#>)
+  * [ ![](https://unboundwiki.com/wp-content/themes/stratswiki/assets/img/wiki/dead-cells.jpg) Dead Cells ](https://unboundwiki.com/pokemon/gorebyss/<#>)
+  * [ ![](https://unboundwiki.com/wp-content/themes/stratswiki/assets/img/wiki/diablo.png) Diablo 4 (D4) ](https://unboundwiki.com/pokemon/gorebyss/<#>)
+
+
+  * [ Home ](https://unboundwiki.com/pokemon/gorebyss/<https:/unboundwiki.com/>)
+  * /
+  * [ All Pokémon ](https://unboundwiki.com/pokemon/gorebyss/<https:/unboundwiki.com/pokemon/>)
+  * /
+  * [ Gorebyss ](https://unboundwiki.com/pokemon/gorebyss/<https:/unboundwiki.com/pokemon/gorebyss/>)
+
+![](https://static.unboundwiki.com/wp-content/assets/images/2024/12/gorebyss-scaled-1.png)
+# Gorebyss
+In: [Pokédex](https://unboundwiki.com/pokemon/gorebyss/<https:/unboundwiki.com/category/pokedex/>)
+Gorebyss  
+---  
+![](https://static.unboundwiki.com/wp-content/assets/sprites/pokemon/gorebyss.png)  
+Type | Water  
+National Dex | #368  
+Location | 
+  * Evolve Clamperl with Deep Sea Scale
+  * [Underwater Raid Den](https://unboundwiki.com/pokemon/gorebyss/<https:/unboundwiki.com/raid-dens/underwater-raid-den/>) (4-5 star)
+
+  
+Abilities | Swift Swim | Raises Speed in rain.  
+Hydration | Heals status problems in rain.  
+Egg Groups | Water 1  
+Wild Held Items | Deep Sea Scale (5% chance)  
+## Evolution Line
+Pokémon | Acquire At  
+---|---  
+[![](https://static.unboundwiki.com/wp-content/assets/sprites/pokemon/clamperl.png) Clamperl](https://unboundwiki.com/pokemon/gorebyss/<https:/unboundwiki.com/pokemon/clamperl/>) | Base form  
+From Clamperl → | [![](https://static.unboundwiki.com/wp-content/assets/sprites/pokemon/huntail.png) Huntail](https://unboundwiki.com/pokemon/gorebyss/<https:/unboundwiki.com/pokemon/huntail/>) | [Deep Sea Tooth](https://unboundwiki.com/pokemon/gorebyss/<https:/unboundwiki.com/items/evolution-items/deep-sea-tooth/>)  
+From Clamperl → | [![](https://static.unboundwiki.com/wp-content/assets/sprites/pokemon/gorebyss.png) Gorebyss](https://unboundwiki.com/pokemon/gorebyss/<https:/unboundwiki.com/pokemon/gorebyss/>) | [Deep Sea Scale](https://unboundwiki.com/pokemon/gorebyss/<https:/unboundwiki.com/items/evolution-items/deep-sea-scale/>)  
+## Moveset (Level Up)
+Lv. | Move | Type | Cat | Power | Acc | PP  
+---|---|---|---|---|---|---  
+1 | Clamp | Water | ![Physical](https://static.unboundwiki.com/wp-content/assets/icons/ui/physical.png) | 35 | 85% | 15  
+1 | Water Gun | Water | ![Special](https://static.unboundwiki.com/wp-content/assets/icons/ui/special.png) | 40 | 100% | 25  
+1 | Iron Defense | Steel | ![Status](https://static.unboundwiki.com/wp-content/assets/icons/ui/status.png) | – | – | 15  
+1 | Shell Smash | Normal | ![Status](https://static.unboundwiki.com/wp-content/assets/icons/ui/status.png) | – | – | 15  
+1 | Whirlpool | Water | ![Special](https://static.unboundwiki.com/wp-content/assets/icons/ui/special.png) | 35 | 85% | 15  
+1 | Confusion | Psychic | ![Special](https://static.unboundwiki.com/wp-content/assets/icons/ui/special.png) | 50 | 100% | 25  
+1 | Water Sport | Water | ![Status](https://static.unboundwiki.com/wp-content/assets/icons/ui/status.png) | – | – | 15  
+1 | Agility | Psychic | ![Status](https://static.unboundwiki.com/wp-content/assets/icons/ui/status.png) | – | – | 30  
+9 | Drainingkiss | Fairy | ![Special](https://static.unboundwiki.com/wp-content/assets/icons/ui/special.png) | 50 | 100% | 10  
+13 | Water Pulse | Water | ![Special](https://static.unboundwiki.com/wp-content/assets/icons/ui/special.png) | 60 | 100% | 20  
+16 | Amnesia | Psychic | ![Status](https://static.unboundwiki.com/wp-content/assets/icons/ui/status.png) | – | – | 20  
+19 | Aqua Ring | Water | ![Status](https://static.unboundwiki.com/wp-content/assets/icons/ui/status.png) | – | – | 20  
+23 | Captivate | Normal | ![Status](https://static.unboundwiki.com/wp-content/assets/icons/ui/status.png) | – | 100% | 20  
+26 | Dive | Water | ![Physical](https://static.unboundwiki.com/wp-content/assets/icons/ui/physical.png) | 100 | 100% | 10  
+29 | Baton Pass | Normal | ![Status](https://static.unboundwiki.com/wp-content/assets/icons/ui/status.png) | – | – | 40  
+34 | Psychic | Psychic | ![Special](https://static.unboundwiki.com/wp-content/assets/icons/ui/special.png) | 90 | 100% | 10  
+39 | Aqua Tail | Water | ![Physical](https://static.unboundwiki.com/wp-content/assets/icons/ui/physical.png) | 90 | 90% | 10  
+45 | Coil | Poison | ![Status](https://static.unboundwiki.com/wp-content/assets/icons/ui/status.png) | – | – | 20  
+50 | Hydro Pump | Water | ![Special](https://static.unboundwiki.com/wp-content/assets/icons/ui/special.png) | 120 | 80% | 5  
+## Learnset (TM/HM)
+Move | Type | Cat | Power | Acc | PP  
+---|---|---|---|---|---  
+Water Pulse | Water | ![Special](https://static.unboundwiki.com/wp-content/assets/icons/ui/special.png) | 60 | 100% | 20  
+Hail | Ice | ![Status](https://static.unboundwiki.com/wp-content/assets/icons/ui/status.png) | – | – | 10  
+Toxic | Poison | ![Status](https://static.unboundwiki.com/wp-content/assets/icons/ui/status.png) | – | 90% | 10  
+Hidden Power | Normal | ![Special](https://static.unboundwiki.com/wp-content/assets/icons/ui/special.png) | 60 | 100% | 15  
+Blizzard | Ice | ![Special](https://static.unboundwiki.com/wp-content/assets/icons/ui/special.png) | 120 | 70% | 5  
+Ice Beam | Ice | ![Special](https://static.unboundwiki.com/wp-content/assets/icons/ui/special.png) | 95 | 100% | 10  
+Hyper Beam | Normal | ![Special](https://static.unboundwiki.com/wp-content/assets/icons/ui/special.png) | 150 | 90% | 5  
+Rain Dance | Water | ![Status](https://static.unboundwiki.com/wp-content/assets/icons/ui/status.png) | – | – | 5  
+Safeguard | Normal | ![Status](https://static.unboundwiki.com/wp-content/assets/icons/ui/status.png) | – | – | 25  
+Protect | Normal | ![Status](https://static.unboundwiki.com/wp-content/assets/icons/ui/status.png) | – | – | 10  
+Shadow Ball | Ghost | ![Special](https://static.unboundwiki.com/wp-content/assets/icons/ui/special.png) | 80 | 100% | 15  
+Return | Normal | ![Physical](https://static.unboundwiki.com/wp-content/assets/icons/ui/physical.png) | 1 | 100% | 20  
+Psychic | Psychic | ![Special](https://static.unboundwiki.com/wp-content/assets/icons/ui/special.png) | 90 | 100% | 10  
+Frustration | Normal | ![Physical](https://static.unboundwiki.com/wp-content/assets/icons/ui/physical.png) | 1 | 100% | 20  
+Double Team | Normal | ![Status](https://static.unboundwiki.com/wp-content/assets/icons/ui/status.png) | – | – | 15  
+Rest | Psychic | ![Status](https://static.unboundwiki.com/wp-content/assets/icons/ui/status.png) | – | – | 10  
+Secret Power | Normal | ![Physical](https://static.unboundwiki.com/wp-content/assets/icons/ui/physical.png) | 70 | 100% | 20  
+Facade | Normal | ![Physical](https://static.unboundwiki.com/wp-content/assets/icons/ui/physical.png) | 70 | 100% | 20  
+Attract | Normal | ![Status](https://static.unboundwiki.com/wp-content/assets/icons/ui/status.png) | – | 100% | 15  
+Endure | Normal | ![Status](https://static.unboundwiki.com/wp-content/assets/icons/ui/status.png) | – | – | 10  
+Brine | Water | ![Special](https://static.unboundwiki.com/wp-content/assets/icons/ui/special.png) | 65 | 100% | 10  
+Giga Impact | Normal | ![Physical](https://static.unboundwiki.com/wp-content/assets/icons/ui/physical.png) | 150 | 90% | 5  
+Swagger | Normal | ![Status](https://static.unboundwiki.com/wp-content/assets/icons/ui/status.png) | – | 85% | 15  
+Sleep Talk | Normal | ![Status](https://static.unboundwiki.com/wp-content/assets/icons/ui/status.png) | – | – | 10  
+Scald | Water | ![Special](https://static.unboundwiki.com/wp-content/assets/icons/ui/special.png) | 80 | 100% | 15  
+Substitute | Normal | ![Status](https://static.unboundwiki.com/wp-content/assets/icons/ui/status.png) | – | – | 10  
+Infestation | Bug | ![Special](https://static.unboundwiki.com/wp-content/assets/icons/ui/special.png) | 20 | 100% | 20  
+Round | Normal | ![Special](https://static.unboundwiki.com/wp-content/assets/icons/ui/special.png) | 60 | 100% | 15  
+Natural Gift | Normal | ![Physical](https://static.unboundwiki.com/wp-content/assets/icons/ui/physical.png) | 1 | 100% | 15  
+Drainingkiss | Fairy | ![Special](https://static.unboundwiki.com/wp-content/assets/icons/ui/special.png) | 50 | 100% | 10  
+Surf | Water | ![Special](https://static.unboundwiki.com/wp-content/assets/icons/ui/special.png) | 95 | 100% | 15  
+Waterfall | Water | ![Physical](https://static.unboundwiki.com/wp-content/assets/icons/ui/physical.png) | 80 | 100% | 15  
+Dive | Water | ![Physical](https://static.unboundwiki.com/wp-content/assets/icons/ui/physical.png) | 100 | 100% | 10  
+## Learnset (Move Tutor)
+Move | Type | Cat | Power | Acc | PP  
+---|---|---|---|---|---  
+Agility | Psychic | ![Status](https://static.unboundwiki.com/wp-content/assets/icons/ui/status.png) | – | – | 30  
+Aqua Tail | Water | ![Physical](https://static.unboundwiki.com/wp-content/assets/icons/ui/physical.png) | 90 | 90% | 10  
+Baton Pass | Normal | ![Status](https://static.unboundwiki.com/wp-content/assets/icons/ui/status.png) | – | – | 40  
+Bind | Normal | ![Physical](https://static.unboundwiki.com/wp-content/assets/icons/ui/physical.png) | 15 | 85% | 20  
+Body Slam | Normal | ![Physical](https://static.unboundwiki.com/wp-content/assets/icons/ui/physical.png) | 85 | 100% | 15  
+Bounce | Flying | ![Physical](https://static.unboundwiki.com/wp-content/assets/icons/ui/physical.png) | 85 | 85% | 5  
+Confide | Normal | ![Status](https://static.unboundwiki.com/wp-content/assets/icons/ui/status.png) | – | – | 20  
+Flip Turn | Water | ![Physical](https://static.unboundwiki.com/wp-content/assets/icons/ui/physical.png) | 60 | 100% | 20  
+Hydro Pump | Water | ![Special](https://static.unboundwiki.com/wp-content/assets/icons/ui/special.png) | 120 | 80% | 5  
+Icy Wind | Ice | ![Special](https://static.unboundwiki.com/wp-content/assets/icons/ui/special.png) | 55 | 95% | 15  
+Iron Defense | Steel | ![Status](https://static.unboundwiki.com/wp-content/assets/icons/ui/status.png) | – | – | 15  
+Muddy Water | Water | ![Special](https://static.unboundwiki.com/wp-content/assets/icons/ui/special.png) | 95 | 85% | 10  
+Psych Up | Normal | ![Status](https://static.unboundwiki.com/wp-content/assets/icons/ui/status.png) | – | – | 10  
+Scale Shot | Dragon | ![Physical](https://static.unboundwiki.com/wp-content/assets/icons/ui/physical.png) | 25 | 90% | 25  
+Signal Beam | Bug | ![Special](https://static.unboundwiki.com/wp-content/assets/icons/ui/special.png) | 75 | 100% | 15  
+Snore | Normal | ![Special](https://static.unboundwiki.com/wp-content/assets/icons/ui/special.png) | 80 | 100% | 15  
+Whirlpool | Water | ![Special](https://static.unboundwiki.com/wp-content/assets/icons/ui/special.png) | 35 | 85% | 15  
+## Egg Moves
+Move | Type | Cat | Power | Acc | PP  
+---|---|---|---|---|---  
+Aqua Ring | Water | ![Status](https://static.unboundwiki.com/wp-content/assets/icons/ui/status.png) | – | – | 20  
+Barrier | Psychic | ![Status](https://static.unboundwiki.com/wp-content/assets/icons/ui/status.png) | – | – | 20  
+Body Slam | Normal | ![Physical](https://static.unboundwiki.com/wp-content/assets/icons/ui/physical.png) | 85 | 100% | 15  
+Brine | Water | ![Special](https://static.unboundwiki.com/wp-content/assets/icons/ui/special.png) | 65 | 100% | 10  
+Confuse Ray | Ghost | ![Status](https://static.unboundwiki.com/wp-content/assets/icons/ui/status.png) | – | 100% | 10  
+Endure | Normal | ![Status](https://static.unboundwiki.com/wp-content/assets/icons/ui/status.png) | – | – | 10  
+Mud Sport | Ground | ![Status](https://static.unboundwiki.com/wp-content/assets/icons/ui/status.png) | – | – | 15  
+Muddy Water | Water | ![Special](https://static.unboundwiki.com/wp-content/assets/icons/ui/special.png) | 95 | 85% | 10  
+Refresh | Normal | ![Status](https://static.unboundwiki.com/wp-content/assets/icons/ui/status.png) | – | – | 20  
+Supersonic | Normal | ![Status](https://static.unboundwiki.com/wp-content/assets/icons/ui/status.png) | – | 55% | 20  
+Water Pulse | Water | ![Special](https://static.unboundwiki.com/wp-content/assets/icons/ui/special.png) | 60 | 100% | 20  
+[ ![](https://static.unboundwiki.com/wp-content/assets/images/2024/07/pokemon-unbound-lab-exterior.jpg) Back to: **All Pokémon** ](https://unboundwiki.com/pokemon/gorebyss/<https:/unboundwiki.com/pokemon/>)
+[ ![](https://static.unboundwiki.com/wp-content/assets/images/2024/07/unbound-game-logo-x50.png) ](https://unboundwiki.com/pokemon/gorebyss/<https:/unboundwiki.com/>)
+This site is not affiliated with or sponsored by Pokemon Unbound or any other related project or property. 
+**General**
+  * [ Homepage ](https://unboundwiki.com/pokemon/gorebyss/<https:/unboundwiki.com/>)
+  * [ About ](https://unboundwiki.com/pokemon/gorebyss/<https:/unboundwiki.com/about/>)
+  * [ Contact ](https://unboundwiki.com/pokemon/gorebyss/<https:/unboundwiki.com/contact/>)
+
+
+**Useful**
+  * [ Walkthrough ](https://unboundwiki.com/pokemon/gorebyss/<https:/unboundwiki.com/walkthrough/>)
+  * [ Categories ](https://unboundwiki.com/pokemon/gorebyss/<https:/unboundwiki.com/categories/>)
+  * [ Sitemap ](https://unboundwiki.com/pokemon/gorebyss/<https:/unboundwiki.com/sitemap/>)
+
+
+**Legals**
+  * [ Terms & Conditions ](https://unboundwiki.com/pokemon/gorebyss/<https:/unboundwiki.com/terms-conditions/>)
+  * [ Privacy Policy ](https://unboundwiki.com/pokemon/gorebyss/<https:/unboundwiki.com/privacy-policy/>)
+
+

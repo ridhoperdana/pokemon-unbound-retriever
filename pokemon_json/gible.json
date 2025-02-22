@@ -1,0 +1,670 @@
+{
+  "name": "gible",
+  "url": "https://unboundwiki.com/pokemon/gible/",
+  "abilities": [
+    {
+      "name": "Sand Veil",
+      "description": "Ups evasion in a sandstorm."
+    },
+    {
+      "name": "Rough Skin",
+      "description": "Hurts to touch."
+    }
+  ],
+  "wild_held_items": "5% Haban Berry",
+  "evolution_line": [
+    {
+      "pokemon": "Base form",
+      "condition": "Unknown"
+    },
+    {
+      "pokemon": "Level 24",
+      "condition": "Unknown"
+    },
+    {
+      "pokemon": "Level 48",
+      "condition": "Unknown"
+    }
+  ],
+  "moveset": [
+    {
+      "level": "1",
+      "move": "Tackle",
+      "type": "Normal",
+      "category": "Physical",
+      "power": "40",
+      "accuracy": "100%",
+      "pp": "35"
+    },
+    {
+      "level": "3",
+      "move": "Sand Attack",
+      "type": "Ground",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "100%",
+      "pp": "15"
+    },
+    {
+      "level": "7",
+      "move": "Metal Claw",
+      "type": "Steel",
+      "category": "Physical",
+      "power": "50",
+      "accuracy": "95%",
+      "pp": "35"
+    },
+    {
+      "level": "13",
+      "move": "Sandstorm",
+      "type": "Rock",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "–",
+      "pp": "10"
+    },
+    {
+      "level": "15",
+      "move": "Fire Fang",
+      "type": "Fire",
+      "category": "Physical",
+      "power": "65",
+      "accuracy": "95%",
+      "pp": "15"
+    },
+    {
+      "level": "18",
+      "move": "Sand Tomb",
+      "type": "Ground",
+      "category": "Physical",
+      "power": "35",
+      "accuracy": "85%",
+      "pp": "15"
+    },
+    {
+      "level": "21",
+      "move": "Bite",
+      "type": "Dark",
+      "category": "Physical",
+      "power": "60",
+      "accuracy": "100%",
+      "pp": "25"
+    },
+    {
+      "level": "24",
+      "move": "Bulldoze",
+      "type": "Ground",
+      "category": "Physical",
+      "power": "60",
+      "accuracy": "100%",
+      "pp": "20"
+    },
+    {
+      "level": "27",
+      "move": "Slash",
+      "type": "Normal",
+      "category": "Physical",
+      "power": "70",
+      "accuracy": "100%",
+      "pp": "20"
+    },
+    {
+      "level": "30",
+      "move": "Dragon Rage",
+      "type": "Dragon",
+      "category": "Special",
+      "power": "1",
+      "accuracy": "100%",
+      "pp": "10"
+    },
+    {
+      "level": "33",
+      "move": "Take Down",
+      "type": "Normal",
+      "category": "Physical",
+      "power": "90",
+      "accuracy": "85%",
+      "pp": "20"
+    },
+    {
+      "level": "36",
+      "move": "Dig",
+      "type": "Ground",
+      "category": "Physical",
+      "power": "80",
+      "accuracy": "100%",
+      "pp": "10"
+    },
+    {
+      "level": "39",
+      "move": "Dragon Claw",
+      "type": "Dragon",
+      "category": "Physical",
+      "power": "80",
+      "accuracy": "100%",
+      "pp": "15"
+    },
+    {
+      "level": "42",
+      "move": "Stompingtantrum",
+      "type": "Ground",
+      "category": "Physical",
+      "power": "75",
+      "accuracy": "100%",
+      "pp": "10"
+    },
+    {
+      "level": "45",
+      "move": "Dragon Rush",
+      "type": "Dragon",
+      "category": "Physical",
+      "power": "100",
+      "accuracy": "75%",
+      "pp": "10"
+    },
+    {
+      "level": "48",
+      "move": "Earthquake",
+      "type": "Ground",
+      "category": "Physical",
+      "power": "100",
+      "accuracy": "100%",
+      "pp": "10"
+    },
+    {
+      "level": "51",
+      "move": "Outrage",
+      "type": "Dragon",
+      "category": "Physical",
+      "power": "120",
+      "accuracy": "100%",
+      "pp": "10"
+    }
+  ],
+  "tm_moves": [
+    {
+      "move": "Aerial Ace",
+      "type": "Flying",
+      "category": "Physical",
+      "power": "60",
+      "accuracy": "–",
+      "pp": "20"
+    },
+    {
+      "move": "Attract",
+      "type": "Normal",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "100%",
+      "pp": "15"
+    },
+    {
+      "move": "Bulldoze",
+      "type": "Ground",
+      "category": "Physical",
+      "power": "60",
+      "accuracy": "100%",
+      "pp": "20"
+    },
+    {
+      "move": "Cut",
+      "type": "Normal",
+      "category": "Physical",
+      "power": "50",
+      "accuracy": "95%",
+      "pp": "30"
+    },
+    {
+      "move": "Dig",
+      "type": "Ground",
+      "category": "Physical",
+      "power": "80",
+      "accuracy": "100%",
+      "pp": "10"
+    },
+    {
+      "move": "Double Team",
+      "type": "Normal",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "–",
+      "pp": "15"
+    },
+    {
+      "move": "Dragon Claw",
+      "type": "Dragon",
+      "category": "Physical",
+      "power": "80",
+      "accuracy": "100%",
+      "pp": "15"
+    },
+    {
+      "move": "Dragon Pulse",
+      "type": "Dragon",
+      "category": "Special",
+      "power": "90",
+      "accuracy": "100%",
+      "pp": "10"
+    },
+    {
+      "move": "Earthquake",
+      "type": "Ground",
+      "category": "Physical",
+      "power": "100",
+      "accuracy": "100%",
+      "pp": "10"
+    },
+    {
+      "move": "Endure",
+      "type": "Normal",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "–",
+      "pp": "10"
+    },
+    {
+      "move": "Facade",
+      "type": "Normal",
+      "category": "Physical",
+      "power": "70",
+      "accuracy": "100%",
+      "pp": "20"
+    },
+    {
+      "move": "Fire Blast",
+      "type": "Fire",
+      "category": "Special",
+      "power": "120",
+      "accuracy": "85%",
+      "pp": "5"
+    },
+    {
+      "move": "Flamethrower",
+      "type": "Fire",
+      "category": "Special",
+      "power": "95",
+      "accuracy": "100%",
+      "pp": "15"
+    },
+    {
+      "move": "Frustration",
+      "type": "Normal",
+      "category": "Physical",
+      "power": "1",
+      "accuracy": "100%",
+      "pp": "20"
+    },
+    {
+      "move": "Hidden Power",
+      "type": "Normal",
+      "category": "Special",
+      "power": "60",
+      "accuracy": "100%",
+      "pp": "15"
+    },
+    {
+      "move": "Hone Claws",
+      "type": "Dark",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "–",
+      "pp": "15"
+    },
+    {
+      "move": "Incinerate",
+      "type": "Fire",
+      "category": "Special",
+      "power": "60",
+      "accuracy": "100%",
+      "pp": "15"
+    },
+    {
+      "move": "Iron Tail",
+      "type": "Steel",
+      "category": "Physical",
+      "power": "100",
+      "accuracy": "75%",
+      "pp": "15"
+    },
+    {
+      "move": "Natural Gift",
+      "type": "Normal",
+      "category": "Physical",
+      "power": "1",
+      "accuracy": "100%",
+      "pp": "15"
+    },
+    {
+      "move": "Protect",
+      "type": "Normal",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "–",
+      "pp": "10"
+    },
+    {
+      "move": "Rain Dance",
+      "type": "Water",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "–",
+      "pp": "5"
+    },
+    {
+      "move": "Rest",
+      "type": "Psychic",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "–",
+      "pp": "10"
+    },
+    {
+      "move": "Return",
+      "type": "Normal",
+      "category": "Physical",
+      "power": "1",
+      "accuracy": "100%",
+      "pp": "20"
+    },
+    {
+      "move": "Roar",
+      "type": "Normal",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "–",
+      "pp": "20"
+    },
+    {
+      "move": "Rock Climb",
+      "type": "Normal",
+      "category": "Physical",
+      "power": "90",
+      "accuracy": "85%",
+      "pp": "20"
+    },
+    {
+      "move": "Rock Slide",
+      "type": "Rock",
+      "category": "Physical",
+      "power": "75",
+      "accuracy": "90%",
+      "pp": "10"
+    },
+    {
+      "move": "Rock Smash",
+      "type": "Fighting",
+      "category": "Physical",
+      "power": "40",
+      "accuracy": "100%",
+      "pp": "15"
+    },
+    {
+      "move": "Rock Tomb",
+      "type": "Rock",
+      "category": "Physical",
+      "power": "60",
+      "accuracy": "95%",
+      "pp": "15"
+    },
+    {
+      "move": "Round",
+      "type": "Normal",
+      "category": "Special",
+      "power": "60",
+      "accuracy": "100%",
+      "pp": "15"
+    },
+    {
+      "move": "Sandstorm",
+      "type": "Rock",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "–",
+      "pp": "10"
+    },
+    {
+      "move": "Secret Power",
+      "type": "Normal",
+      "category": "Physical",
+      "power": "70",
+      "accuracy": "100%",
+      "pp": "20"
+    },
+    {
+      "move": "Shadow Claw",
+      "type": "Ghost",
+      "category": "Physical",
+      "power": "70",
+      "accuracy": "100%",
+      "pp": "15"
+    },
+    {
+      "move": "Sleep Talk",
+      "type": "Normal",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "–",
+      "pp": "10"
+    },
+    {
+      "move": "Stealth Rock",
+      "type": "Rock",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "–",
+      "pp": "20"
+    },
+    {
+      "move": "Stone Edge",
+      "type": "Rock",
+      "category": "Physical",
+      "power": "100",
+      "accuracy": "80%",
+      "pp": "5"
+    },
+    {
+      "move": "Strength",
+      "type": "Normal",
+      "category": "Physical",
+      "power": "80",
+      "accuracy": "100%",
+      "pp": "15"
+    },
+    {
+      "move": "Substitute",
+      "type": "Normal",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "–",
+      "pp": "10"
+    },
+    {
+      "move": "Sunny Day",
+      "type": "Fire",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "–",
+      "pp": "5"
+    },
+    {
+      "move": "Swagger",
+      "type": "Normal",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "85%",
+      "pp": "15"
+    },
+    {
+      "move": "Toxic",
+      "type": "Poison",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "90%",
+      "pp": "10"
+    }
+  ],
+  "tutor_moves": [
+    {
+      "move": "Body Slam",
+      "type": "Normal",
+      "category": "Physical",
+      "power": "85",
+      "accuracy": "100%",
+      "pp": "15"
+    },
+    {
+      "move": "Confide",
+      "type": "Normal",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "–",
+      "pp": "20"
+    },
+    {
+      "move": "Draco Meteor",
+      "type": "Dragon",
+      "category": "Special",
+      "power": "140",
+      "accuracy": "90%",
+      "pp": "5"
+    },
+    {
+      "move": "Earth Power",
+      "type": "Ground",
+      "category": "Special",
+      "power": "90",
+      "accuracy": "100%",
+      "pp": "10"
+    },
+    {
+      "move": "Iron Head",
+      "type": "Steel",
+      "category": "Physical",
+      "power": "80",
+      "accuracy": "100%",
+      "pp": "15"
+    },
+    {
+      "move": "Outrage",
+      "type": "Dragon",
+      "category": "Physical",
+      "power": "120",
+      "accuracy": "100%",
+      "pp": "10"
+    },
+    {
+      "move": "Sand Tomb",
+      "type": "Ground",
+      "category": "Physical",
+      "power": "35",
+      "accuracy": "85%",
+      "pp": "15"
+    },
+    {
+      "move": "Scale Shot",
+      "type": "Dragon",
+      "category": "Physical",
+      "power": "25",
+      "accuracy": "90%",
+      "pp": "25"
+    },
+    {
+      "move": "Scary Face",
+      "type": "Normal",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "100%",
+      "pp": "10"
+    },
+    {
+      "move": "Scorch Sands",
+      "type": "Ground",
+      "category": "Special",
+      "power": "70",
+      "accuracy": "100%",
+      "pp": "10"
+    },
+    {
+      "move": "Snore",
+      "type": "Normal",
+      "category": "Special",
+      "power": "80",
+      "accuracy": "100%",
+      "pp": "15"
+    }
+  ],
+  "egg_moves": [
+    {
+      "move": "Body Slam",
+      "type": "Normal",
+      "category": "Physical",
+      "power": "85",
+      "accuracy": "100%",
+      "pp": "15"
+    },
+    {
+      "move": "Double-Edge",
+      "type": "Normal",
+      "category": "Physical",
+      "power": "120",
+      "accuracy": "100%",
+      "pp": "15"
+    },
+    {
+      "move": "DragonBreath",
+      "type": "Dragon",
+      "category": "Special",
+      "power": "60",
+      "accuracy": "100%",
+      "pp": "20"
+    },
+    {
+      "move": "Iron Head",
+      "type": "Steel",
+      "category": "Physical",
+      "power": "80",
+      "accuracy": "100%",
+      "pp": "15"
+    },
+    {
+      "move": "Iron Tail",
+      "type": "Steel",
+      "category": "Physical",
+      "power": "100",
+      "accuracy": "75%",
+      "pp": "15"
+    },
+    {
+      "move": "Rock Climb",
+      "type": "Normal",
+      "category": "Physical",
+      "power": "90",
+      "accuracy": "85%",
+      "pp": "20"
+    },
+    {
+      "move": "Scary Face",
+      "type": "Normal",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "100%",
+      "pp": "10"
+    },
+    {
+      "move": "Thrash",
+      "type": "Normal",
+      "category": "Physical",
+      "power": "120",
+      "accuracy": "100%",
+      "pp": "10"
+    },
+    {
+      "move": "Twister",
+      "type": "Dragon",
+      "category": "Special",
+      "power": "40",
+      "accuracy": "100%",
+      "pp": "20"
+    }
+  ]
+}

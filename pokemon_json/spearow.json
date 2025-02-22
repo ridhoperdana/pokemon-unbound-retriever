@@ -1,0 +1,575 @@
+{
+  "name": "spearow",
+  "url": "https://unboundwiki.com/pokemon/spearow/",
+  "abilities": [
+    {
+      "name": "Keen Eye",
+      "description": "Prevents loss of accuracy."
+    },
+    {
+      "name": "Sniper",
+      "description": "Boosts critical hits."
+    }
+  ],
+  "wild_held_items": "5% Sharp Beak",
+  "evolution_line": [
+    {
+      "pokemon": "Base form",
+      "condition": "Unknown"
+    },
+    {
+      "pokemon": "Level 20",
+      "condition": "Unknown"
+    }
+  ],
+  "moveset": [
+    {
+      "level": "1",
+      "move": "Peck",
+      "type": "Flying",
+      "category": "Physical",
+      "power": "35",
+      "accuracy": "100%",
+      "pp": "35"
+    },
+    {
+      "level": "1",
+      "move": "Growl",
+      "type": "Normal",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "100%",
+      "pp": "40"
+    },
+    {
+      "level": "4",
+      "move": "Leer",
+      "type": "Normal",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "100%",
+      "pp": "30"
+    },
+    {
+      "level": "8",
+      "move": "Pursuit",
+      "type": "Dark",
+      "category": "Physical",
+      "power": "40",
+      "accuracy": "100%",
+      "pp": "20"
+    },
+    {
+      "level": "11",
+      "move": "Fury Attack",
+      "type": "Normal",
+      "category": "Physical",
+      "power": "15",
+      "accuracy": "85%",
+      "pp": "20"
+    },
+    {
+      "level": "15",
+      "move": "Aerial Ace",
+      "type": "Flying",
+      "category": "Physical",
+      "power": "60",
+      "accuracy": "–",
+      "pp": "20"
+    },
+    {
+      "level": "18",
+      "move": "Mirror Move",
+      "type": "Flying",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "–",
+      "pp": "20"
+    },
+    {
+      "level": "22",
+      "move": "Assurance",
+      "type": "Dark",
+      "category": "Physical",
+      "power": "60",
+      "accuracy": "100%",
+      "pp": "10"
+    },
+    {
+      "level": "24",
+      "move": "Agility",
+      "type": "Psychic",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "–",
+      "pp": "30"
+    },
+    {
+      "level": "27",
+      "move": "Take Down",
+      "type": "Normal",
+      "category": "Physical",
+      "power": "90",
+      "accuracy": "85%",
+      "pp": "20"
+    },
+    {
+      "level": "30",
+      "move": "Drill Peck",
+      "type": "Flying",
+      "category": "Physical",
+      "power": "80",
+      "accuracy": "100%",
+      "pp": "20"
+    },
+    {
+      "level": "33",
+      "move": "Focus Energy",
+      "type": "Normal",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "–",
+      "pp": "30"
+    },
+    {
+      "level": "37",
+      "move": "Roost",
+      "type": "Flying",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "–",
+      "pp": "10"
+    },
+    {
+      "level": "40",
+      "move": "Double-Edge",
+      "type": "Normal",
+      "category": "Physical",
+      "power": "120",
+      "accuracy": "100%",
+      "pp": "15"
+    }
+  ],
+  "tm_moves": [
+    {
+      "move": "Aerial Ace",
+      "type": "Flying",
+      "category": "Physical",
+      "power": "60",
+      "accuracy": "–",
+      "pp": "20"
+    },
+    {
+      "move": "Attract",
+      "type": "Normal",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "100%",
+      "pp": "15"
+    },
+    {
+      "move": "Defog",
+      "type": "Flying",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "–",
+      "pp": "15"
+    },
+    {
+      "move": "Double Team",
+      "type": "Normal",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "–",
+      "pp": "15"
+    },
+    {
+      "move": "Echoed Voice",
+      "type": "Normal",
+      "category": "Special",
+      "power": "40",
+      "accuracy": "100%",
+      "pp": "15"
+    },
+    {
+      "move": "Endure",
+      "type": "Normal",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "–",
+      "pp": "10"
+    },
+    {
+      "move": "Facade",
+      "type": "Normal",
+      "category": "Physical",
+      "power": "70",
+      "accuracy": "100%",
+      "pp": "20"
+    },
+    {
+      "move": "False Swipe",
+      "type": "Normal",
+      "category": "Physical",
+      "power": "40",
+      "accuracy": "100%",
+      "pp": "40"
+    },
+    {
+      "move": "Fly",
+      "type": "Flying",
+      "category": "Physical",
+      "power": "100",
+      "accuracy": "95%",
+      "pp": "15"
+    },
+    {
+      "move": "Frustration",
+      "type": "Normal",
+      "category": "Physical",
+      "power": "1",
+      "accuracy": "100%",
+      "pp": "20"
+    },
+    {
+      "move": "Hidden Power",
+      "type": "Normal",
+      "category": "Special",
+      "power": "60",
+      "accuracy": "100%",
+      "pp": "15"
+    },
+    {
+      "move": "Natural Gift",
+      "type": "Normal",
+      "category": "Physical",
+      "power": "1",
+      "accuracy": "100%",
+      "pp": "15"
+    },
+    {
+      "move": "Pluck",
+      "type": "Flying",
+      "category": "Physical",
+      "power": "60",
+      "accuracy": "100%",
+      "pp": "20"
+    },
+    {
+      "move": "Protect",
+      "type": "Normal",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "–",
+      "pp": "10"
+    },
+    {
+      "move": "Rain Dance",
+      "type": "Water",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "–",
+      "pp": "5"
+    },
+    {
+      "move": "Rest",
+      "type": "Psychic",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "–",
+      "pp": "10"
+    },
+    {
+      "move": "Return",
+      "type": "Normal",
+      "category": "Physical",
+      "power": "1",
+      "accuracy": "100%",
+      "pp": "20"
+    },
+    {
+      "move": "Roost",
+      "type": "Flying",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "–",
+      "pp": "10"
+    },
+    {
+      "move": "Round",
+      "type": "Normal",
+      "category": "Special",
+      "power": "60",
+      "accuracy": "100%",
+      "pp": "15"
+    },
+    {
+      "move": "Secret Power",
+      "type": "Normal",
+      "category": "Physical",
+      "power": "70",
+      "accuracy": "100%",
+      "pp": "20"
+    },
+    {
+      "move": "Sleep Talk",
+      "type": "Normal",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "–",
+      "pp": "10"
+    },
+    {
+      "move": "Steel Wing",
+      "type": "Steel",
+      "category": "Physical",
+      "power": "70",
+      "accuracy": "90%",
+      "pp": "25"
+    },
+    {
+      "move": "Substitute",
+      "type": "Normal",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "–",
+      "pp": "10"
+    },
+    {
+      "move": "Sunny Day",
+      "type": "Fire",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "–",
+      "pp": "5"
+    },
+    {
+      "move": "Swagger",
+      "type": "Normal",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "85%",
+      "pp": "15"
+    },
+    {
+      "move": "Thief",
+      "type": "Dark",
+      "category": "Physical",
+      "power": "60",
+      "accuracy": "100%",
+      "pp": "25"
+    },
+    {
+      "move": "Toxic",
+      "type": "Poison",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "90%",
+      "pp": "10"
+    },
+    {
+      "move": "U-turn",
+      "type": "Bug",
+      "category": "Physical",
+      "power": "70",
+      "accuracy": "100%",
+      "pp": "20"
+    },
+    {
+      "move": "Work Up",
+      "type": "Normal",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "–",
+      "pp": "30"
+    }
+  ],
+  "tutor_moves": [
+    {
+      "move": "Agility",
+      "type": "Psychic",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "–",
+      "pp": "30"
+    },
+    {
+      "move": "Baton Pass",
+      "type": "Normal",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "–",
+      "pp": "40"
+    },
+    {
+      "move": "Confide",
+      "type": "Normal",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "–",
+      "pp": "20"
+    },
+    {
+      "move": "Drill Run",
+      "type": "Ground",
+      "category": "Physical",
+      "power": "80",
+      "accuracy": "95%",
+      "pp": "10"
+    },
+    {
+      "move": "DualWingbeat",
+      "type": "Flying",
+      "category": "Physical",
+      "power": "40",
+      "accuracy": "90%",
+      "pp": "10"
+    },
+    {
+      "move": "Focus Energy",
+      "type": "Normal",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "–",
+      "pp": "30"
+    },
+    {
+      "move": "Heat Wave",
+      "type": "Fire",
+      "category": "Special",
+      "power": "100",
+      "accuracy": "90%",
+      "pp": "10"
+    },
+    {
+      "move": "Scary Face",
+      "type": "Normal",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "100%",
+      "pp": "10"
+    },
+    {
+      "move": "Sky Attack",
+      "type": "Flying",
+      "category": "Physical",
+      "power": "140",
+      "accuracy": "90%",
+      "pp": "5"
+    },
+    {
+      "move": "Snore",
+      "type": "Normal",
+      "category": "Special",
+      "power": "80",
+      "accuracy": "100%",
+      "pp": "15"
+    },
+    {
+      "move": "Tailwind",
+      "type": "Flying",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "–",
+      "pp": "15"
+    },
+    {
+      "move": "Uproar",
+      "type": "Normal",
+      "category": "Special",
+      "power": "90",
+      "accuracy": "100%",
+      "pp": "10"
+    }
+  ],
+  "egg_moves": [
+    {
+      "move": "Astonish",
+      "type": "Ghost",
+      "category": "Physical",
+      "power": "30",
+      "accuracy": "100%",
+      "pp": "15"
+    },
+    {
+      "move": "FeatherDance",
+      "type": "Flying",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "100%",
+      "pp": "15"
+    },
+    {
+      "move": "Feint Attack",
+      "type": "Dark",
+      "category": "Physical",
+      "power": "60",
+      "accuracy": "–",
+      "pp": "20"
+    },
+    {
+      "move": "Quick Attack",
+      "type": "Normal",
+      "category": "Physical",
+      "power": "40",
+      "accuracy": "100%",
+      "pp": "30"
+    },
+    {
+      "move": "Razor Wind",
+      "type": "Normal",
+      "category": "Special",
+      "power": "80",
+      "accuracy": "100%",
+      "pp": "10"
+    },
+    {
+      "move": "Scary Face",
+      "type": "Normal",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "100%",
+      "pp": "10"
+    },
+    {
+      "move": "Sky Attack",
+      "type": "Flying",
+      "category": "Physical",
+      "power": "140",
+      "accuracy": "90%",
+      "pp": "5"
+    },
+    {
+      "move": "Steel Wing",
+      "type": "Steel",
+      "category": "Physical",
+      "power": "70",
+      "accuracy": "90%",
+      "pp": "25"
+    },
+    {
+      "move": "Tri Attack",
+      "type": "Normal",
+      "category": "Special",
+      "power": "80",
+      "accuracy": "100%",
+      "pp": "10"
+    },
+    {
+      "move": "Uproar",
+      "type": "Normal",
+      "category": "Special",
+      "power": "90",
+      "accuracy": "100%",
+      "pp": "10"
+    },
+    {
+      "move": "Whirlwind",
+      "type": "Normal",
+      "category": "Status",
+      "power": "–",
+      "accuracy": "–",
+      "pp": "20"
+    }
+  ]
+}
